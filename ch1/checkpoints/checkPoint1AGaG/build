@@ -1,0 +1,20 @@
+#!/bin/bash
+#/home/students/raya4213/PinExample/checkpoints/checkPoint1A2Bit
+bench-run.pl --bench spec-cpu2006:int:401.bzip2:train --build base --prefix "pin -t  /home/students/raya4213/checkpoints/checkPoint1A2Bit/obj-intel64/checkpoint1A2Bit.so -o bzip2.out -l 10000000000 --" --copy bzip2.out --log LOG
+
+mv go.sh bzip2.sh
+
+
+bench-run.pl --bench spec-cpu2006:int:471.omnetpp:train --build base --prefix "pin -t  /home/students/raya4213/checkpoints/checkPoint1A2Bit/obj-intel64/checkpoint1A2Bit.so -o omnetpp.out -l 10000000000 --" --copy omnetpp.out --log LOG
+
+
+mv go.sh omnetpp.sh
+
+bench-run.pl --bench spec-cpu2006:int:456.hmmer:train --build base --prefix "pin -t  /home/students/raya4213/checkpoints/checkPoint1A2Bit/obj-intel64/checkpoint1A2Bit.so -o hmmer.out -l 10000000000 --" --copy hmmer.out --log LOG
+
+mv go.sh hmmer.sh
+
+bench-run.pl --bench spec-cpu2006:int:473.astar:train --build base --prefix "pin -t  /home/students/raya4213/checkpoints/checkPoint1A2Bit/obj-intel64/checkpoint1A2Bit.so -o astar.out -l 10000000000 --" --copy astar.out --log LOG
+
+mv go.sh astar.sh
+

@@ -1,0 +1,22 @@
+Thu May 11 00:15:18 MDT 2017
+Started : spec-cpu2006/int/401.bzip2 input: train 0 at Thu May 11 00:15:18 MDT 2017
+Thu May 11 00:15:26 MDT 2017
+Started : spec-cpu2006/int/456.hmmer input: train 0 at Thu May 11 00:15:26 MDT 2017
+Thu May 11 00:15:31 MDT 2017
+Started : spec-cpu2006/int/471.omnetpp input: train 0 at Thu May 11 00:15:31 MDT 2017
+Thu May 11 00:15:39 MDT 2017
+Started : spec-cpu2006/int/473.astar input: train 0 at Thu May 11 00:15:39 MDT 2017
+Finished: spec-cpu2006/int/401.bzip2 input: train 0 at Thu May 11 00:16:18 MDT 2017
+Started : spec-cpu2006/int/401.bzip2 input: train 1 at Thu May 11 00:16:18 MDT 2017
+Finished: spec-cpu2006/int/401.bzip2 input: train 1 at Thu May 11 00:17:25 MDT 2017
+Started : spec-cpu2006/int/401.bzip2 input: train 2 at Thu May 11 00:17:25 MDT 2017
+Finished: spec-cpu2006/int/471.omnetpp input: train 0 at Thu May 11 00:19:15 MDT 2017
+Thu May 11 00:19:15 MDT 2017
+Finished: spec-cpu2006/int/456.hmmer input: train 0 at Thu May 11 00:19:26 MDT 2017
+Thu May 11 00:19:26 MDT 2017
+Finished: spec-cpu2006/int/473.astar input: train 0 at Thu May 11 00:19:28 MDT 2017
+Started : spec-cpu2006/int/473.astar input: train 1 at Thu May 11 00:19:28 MDT 2017
+Finished: spec-cpu2006/int/401.bzip2 input: train 2 at Thu May 11 00:20:49 MDT 2017
+Thu May 11 00:20:49 MDT 2017
+Finished: spec-cpu2006/int/473.astar input: train 1 at Thu May 11 00:23:10 MDT 2017
+Thu May 11 00:23:10 MDT 2017
